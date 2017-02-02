@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spreadsheet IsValid="^[A-Z]*[1-2]$">
+  <cell name="A1" contents="2" />
+  <cell name="B1" contents="Garfield" />
+  <cell name="C1" contents="=A1 * 2" />
+</spreadsheet>
